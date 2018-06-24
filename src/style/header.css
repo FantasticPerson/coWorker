@@ -1,0 +1,14 @@
+.header-container .icon-people{
+    font-size: 35px;
+}
+
+.header-container span{
+    font-size: 20px;
+    vertical-align: 5px;
+    margin-left: 10px;
+}
+
+.header-nav{
+    position: absolute;
+    right: 0;
+}
